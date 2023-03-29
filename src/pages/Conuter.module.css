@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    height: 50px;
+    align-items: center;
+    background: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
+.plus {
+    color: black;
+}
+.minus {
+    color: black;
+}
+h3 {
+    color: #ffffff;
+}
